@@ -28,6 +28,7 @@ By analyzing **10,438 NYC infrastructure projects**, this research reveals a sta
 
 ## Tech Stack & Data Pipeline
 
+* 📓 **Notebook Pipeline:** View the complete [Analysis Pipeline Notebook](./FloodVul.ipynb)
 * **Data Processing & Analysis:** `Python`, `pandas`, `GeoPandas`, `Shapely`
 * **Spatial Geometry Operations:** Buffer analysis, spatial joins, centroid intersections, and custom vulnerability indexing
 * **Environment:** Google Colab
