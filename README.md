@@ -35,6 +35,11 @@ By analyzing **10,438 NYC infrastructure projects**, this research reveals a sta
 
 ---
 
-## References & Data Sources
-* *City of New York Special Initiative for Rebuilding and Resiliency (SIRR), 2013.*
-* *NYC Open Data Platform (Capital Infrastructure Projects).*
+---
+
+## Data Sources
+
+* **[NYC Participatory Budgeting Project Tracker](https://data.cityofnewyork.us/City-Government/Participatory-Budgeting-Project-Tracker/qm5f-frjb/about_data):** City of New York, Mayor's Office of Operations (NYC Open Data)
+* **[NYC Flood Vulnerability Index](https://data.cityofnewyork.us/Environment/New-York-City-s-Flood-Vulnerability-Index/mrjc-v9pm/about_data):** City of New York, Mayor's Office of Climate and Environmental Justice (NYC Open Data)
+* **[Social Vulnerability Index (SVI)](https://svi.cdc.gov/dataDownloads/data-download.html):** Centers for Disease Control and Prevention (CDC)
+* **NYC Special Initiative for Rebuilding and Resiliency (SIRR):** City of New York (2013)
