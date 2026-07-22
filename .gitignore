@@ -1,0 +1,15 @@
+# GIS & Spatial Data Files
+*.shp
+*.shx
+*.dbf
+*.prj
+*.geojson
+*.gpkg
+*.tif
+*.tiff
+data/raw/
+
+# Jupyter Caches & System Files
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
