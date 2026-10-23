@@ -6,7 +6,7 @@
 
 An empirical investigation into spatial equity and climate resilience across New York City's critical infrastructure networks, using the **Hunts Point Food Distribution Center** in the South Bronx as a core case study.
 
-🔗 **Explore the interactive project map:** [neglectindex.netlify.app](https://neglectindex.netlify.app/)
+🔗 **Explore the interactive project map:** [neglectindex.netlify.app](https://neglectindex.netlify.app/nyc_map.html)
 
 ---
 
